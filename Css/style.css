@@ -1,0 +1,76 @@
+.carouel-container{
+    margin-top: 100px;
+}
+.carousel-item{
+    background-color: #FEEAE9;
+    padding: 20px 40px;
+}
+.dollar{
+    color: crimson;
+}
+.btn-buy{
+    background-image: linear-gradient(to bottom, #ff588b 0%, #ff136f 100% );
+    padding: 8px 16px;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 5px;
+
+}
+.container-categoris{
+    margin-top: 100px;
+}
+.cate-1{
+    background-color: chocolate;
+    color: #fff;
+    border-radius: 8px;
+    
+}
+.cate-2{
+    background-color: crimson;
+    color: #fff;
+    border-radius: 8px;
+}
+.cate-3{
+    background-color: darkolivegreen;
+    color: #fff;
+    border-radius: 8px;
+}
+.categoris img {
+    width: 100px;
+}
+.container-categoris img{
+    width: 100px;
+}
+.shoes-container{
+    margin-top: 100px;
+}
+.card{
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 10px;
+    border: none;
+}
+.backpack-container{
+    margin-top: 100px;
+}
+.card-footer{
+    border-top: none;
+    background-color: #fff;
+}
+.contact-container{
+    margin-top: 100px;
+}
+
+.color{
+    background-color: #FEEAE9;
+    border-radius: 10px;
+    height: 300px;
+    
+}
+.footer-container{
+    margin-top: 100px;
+}
+footer{
+    text-align: center;
+}
+
